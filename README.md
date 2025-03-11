@@ -1,21 +1,23 @@
 # visual_computing
-This project utilizes OpenCV to explore and implement visual computing techniques. It focuses on image processing, object detection, video analysis, and other computer vision applications. The goal is to experiment with various vision-based algorithms and develop practical applications.
+This project utilizes OpenCV to explore and implement visual computing techniques. </br>
+It focuses on image processing, object detection, video analysis, and other computer vision applications. </br>
+The goal is to experiment with various vision-based algorithms and develop practical applications. </br>
 
-🚀 Key Features
-Image Processing: Filtering, edge detection, color transformations, etc.
-Object Detection: Haar Cascade, YOLO, OpenCV DNN integration
-Video Analysis: Motion detection, object tracking
-Other Applications: Augmented reality (AR), facial recognition, OCR
+🚀 Key Features </br>
+Image Processing: Filtering, edge detection, color transformations, etc. </br>
+Object Detection: Haar Cascade, YOLO, OpenCV DNN integration </br>
+Video Analysis: Motion detection, object tracking </br>
+Other Applications: Augmented reality (AR), facial recognition, OCR </br>
 
-🛠️ Tech Stack
-Languages: Python / C++
-Libraries: OpenCV, NumPy, Matplotlib
-Environment: Jupyter Notebook / PyTorch integration available
+🛠️ Tech Stack </br>
+Languages: Python / C++ </br>
+Libraries: OpenCV, NumPy, Matplotlib </br>
+Environment: Jupyter Notebook / PyTorch integration available </br>
 
 🎯 Goals & Use Cases
-This project aims to enhance understanding and practical application of visual computing techniques, including:
-✅ Real-time webcam filtering
-✅ Object & face detection
-✅ Object tracking in videos
-✅ OCR (Optical Character Recognition)
-✅ Neural Style Transfer
+This project aims to enhance understanding and practical application of visual computing techniques, including: </br>
+✅ Real-time webcam filtering </br>
+✅ Object & face detection </br>
+✅ Object tracking in videos </br>
+✅ OCR (Optical Character Recognition) </br>
+✅ Neural Style Transfer </br>
